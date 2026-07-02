@@ -30,7 +30,7 @@ Building scalable web applications using the MERN Stack while mastering Data Str
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode,postman"/>
 
 </p>
 

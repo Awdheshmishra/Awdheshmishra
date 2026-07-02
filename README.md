@@ -17,11 +17,11 @@ Building scalable web applications using the MERN Stack while mastering Data Str
 # 🚀 About Me
 
 - 🎓 B.Tech CSE Student (AKTU)
-- 🌱 Currently learning **MERN Stack**
-- ☕ Solving **DSA using Java**
-- 💻 Building Backend Applications using **Node.js & Express.js**
+- 🌱 Currently Learning **MERN Stack**
+- ☕ Solving DSA using **Java**
+- 💻 Backend Development with **Node.js & Express.js**
 - 🗄️ Learning **MongoDB**
-- 🚀 Passionate about building real-world projects
+- 🚀 Passionate about Building Real-World Projects
 - 🎯 Goal: Become a Full Stack MERN Developer
 
 ---
@@ -29,7 +29,9 @@ Building scalable web applications using the MERN Stack while mastering Data Str
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode,postman" />
+
+<img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode,postman"/>
+
 </p>
 
 ---
@@ -56,26 +58,65 @@ Building scalable web applications using the MERN Stack while mastering Data Str
 
 ---
 
+# 🏆 LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/awdheshmishra?theme=dark&font=Baloo&ext=contest"/>
+
+</p>
+
+### 📈 LeetCode Highlights
+
+- ✅ 210+ Problems Solved
+- 🏆 Contest Rating: **1751**
+- 🌍 Top **10.4%**
+- 🔥 Max Streak: **108 Days**
+- ☕ Primary Language: **Java**
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Awdheshmishra&show_icons=true&theme=tokyonight&rank_icon=github" />
-<img height="170" src="https://streak-stats.demolab.com?user=Awdheshmishra&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Awdheshmishra&show_icons=true&theme=tokyonight&rank_icon=github"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Awdheshmishra&theme=tokyonight"/>
+
 </p>
+
+---
+
+<!--
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Awdheshmishra/Awdheshmishra/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+-->
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/awdhesh-mishra-09780932a">LinkedIn</a> •
 <a href="https://awdheshmishra.netlify.app/">Portfolio</a> •
 <a href="mailto:awdheshmishra310@gmail.com">Email</a> •
 <a href="https://leetcode.com/u/awdheshmishra/">LeetCode</a>
+
 </p>
 
 ---
 
 <p align="center">
+
 ⭐ <b>Code • Learn • Build • Repeat 🚀</b>
+
 </p>

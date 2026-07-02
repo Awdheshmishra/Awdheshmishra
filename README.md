@@ -64,12 +64,13 @@ Building scalable web applications using the MERN Stack while mastering Data Str
 </p>
 
 ---
-
+<!--
 # 💻 Most Used Languages
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awdheshmishra&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
+-->
 
 ---
 

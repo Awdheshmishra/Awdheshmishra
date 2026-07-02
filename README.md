@@ -64,25 +64,6 @@ Building scalable web applications using the MERN Stack while mastering Data Str
 </p>
 
 ---
-<!--
-# 💻 Most Used Languages
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awdheshmishra&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
--->
-
----
-
-<!--
-🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Awdheshmishra/Awdheshmishra/output/github-contribution-grid-snake-dark.svg" />
-</p>
--->
-
----
 
 # 🌐 Connect With Me
 

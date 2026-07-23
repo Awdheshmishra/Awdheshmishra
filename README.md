@@ -88,7 +88,7 @@ Building scalable web applications using the MERN Stack while mastering Data Str
 -->
 ---
 
-<!--
+
 
 # 🐍 Contribution Snake
 
@@ -98,7 +98,7 @@ Building scalable web applications using the MERN Stack while mastering Data Str
 
 </p>
 
--->
+
 
 ---
 

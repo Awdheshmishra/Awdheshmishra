@@ -82,7 +82,7 @@ Building scalable web applications using the MERN Stack while mastering Data Str
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Awdheshmishra&show_icons=true&theme=tokyonight&rank_icon=github"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=Awdheshmishra&theme=tokyonight"/>
+<!--<img height="170" src="https://streak-stats.demolab.com?user=Awdheshmishra&theme=tokyonight"/>  -->
 
 </p>
 

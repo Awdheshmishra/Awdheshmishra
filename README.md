@@ -75,6 +75,7 @@ Building scalable web applications using the MERN Stack while mastering Data Str
 - ☕ Primary Language: **Java**
 
 ---
+<!--
 
 # 📊 GitHub Stats
 
@@ -87,6 +88,7 @@ Building scalable web applications using the MERN Stack while mastering Data Str
 </p>
 
 ---
+-->
 
 <!--
 

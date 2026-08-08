@@ -108,8 +108,13 @@ Building scalable web applications using the MERN Stack while mastering Data Str
 <p align="center">
 
 <a href="https://www.linkedin.com/in/awdhesh-mishra-09780932a">LinkedIn</a> •
+
+
 <a href="https://awdheshmishra.netlify.app/">Portfolio</a> •
+
 <a href="mailto:awdheshmishra310@gmail.com">Email</a> •
+
+
 <a href="https://leetcode.com/u/awdheshmishra/">LeetCode</a>
 
 </p>

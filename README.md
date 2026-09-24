@@ -122,11 +122,6 @@ Building scalable web applications using the MERN Stack while mastering Data Str
 ---
 
 
-
-
-
-
-
 <p align="center">
 
 ⭐ <b>Code • Learn • Build • Repeat 🚀</b>

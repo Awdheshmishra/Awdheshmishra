@@ -114,7 +114,6 @@ Building scalable web applications using the MERN Stack while mastering Data Str
 
 <a href="mailto:awdheshmishra310@gmail.com">Email</a> •
 
-
 <a href="https://leetcode.com/u/awdheshmishra/">LeetCode</a>
 
 </p>

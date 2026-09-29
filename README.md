@@ -3,19 +3,14 @@
 <h3 align="center">
 🚀 MERN Stack Developer | Java + DSA Enthusiast | Backend Learner
 </h3>
-
 <p align="center">
 Building scalable web applications using the MERN Stack while mastering Data Structures & Algorithms in Java.
 </p>
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Java+DSA+Enthusiast;Backend+Developer;Always+Learning+New+Things" />
 </p>
-
 ---
-
 # 🚀 About Me
-
 - 🎓 B.Tech CSE Student (AKTU)
 - 🌱 Currently Learning **MERN Stack**
 - ☕ Solving DSA using **Java**
@@ -23,21 +18,13 @@ Building scalable web applications using the MERN Stack while mastering Data Str
 - 🗄️ Learning **MongoDB**
 - 🚀 Passionate about Building Real-World Projects
 - 🎯 Goal: Become a Full Stack MERN Developer
-
 ---
-
 # 💻 Tech Stack
-
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode,postman"/>
-
 </p>
-
 ---
-
 # 🚀 Featured Projects
-
 - ⭐ NepKart
 - ⭐ Bharat Blood Tracker
 - ⭐ Portfolio
@@ -117,9 +104,7 @@ Building scalable web applications using the MERN Stack while mastering Data Str
 <a href="https://leetcode.com/u/awdheshmishra/">LeetCode</a>
 
 </p>
-
 ---
-
 
 <p align="center">
 
